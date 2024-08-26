@@ -15,7 +15,7 @@ echo '<center>
         <p>Lớp: K58SN2, Trường đại học Thương Mại</p>
     <center>';
 echo 'Đây là commit';
-echo 'Đây là commit';
+echo 'Đây là commit thứ 2';
 echo '<button><a target="_blank"  href="https://github.com/hangpt1">Link Github</a></button>';
 ?>
 </body>
